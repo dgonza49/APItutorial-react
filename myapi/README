@@ -1,0 +1,21 @@
+Start First By getting Express-Generator
+
+1.   $npm install express-generator -g
+
+Next Create a Simple Project
+
+2. $ express <myapi>        
+Note: Replace myapi with your API name
+
+cd into project folder and install npm dependencies
+
+
+3.  $ cd myapi
+    $ npm install
+
+Enable Cross Resource Sharing
+
+4. $npm install cors --save
+
+For Front End install visit React folder
+
