@@ -2,7 +2,8 @@
 Instructions Continued: Start Bank-End
 
 
-GO To README in myapi
+GO To README in myapi FIRST:
+Afterward proceed with the following steps:
 
 Create React App
 
